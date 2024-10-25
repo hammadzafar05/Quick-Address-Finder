@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Hammadzafar05\QuickAddressFinder\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class QuickAddressFinderCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'quick-address-finder';
 
     public $description = 'My command';
 
